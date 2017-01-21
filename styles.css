@@ -1,0 +1,22 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-color: #FFFAF0;
+}
+header,
+main,
+article,
+footer {
+	background-color: #00BFFF;
+}
+main{
+    font-size:30px;
+    font-family: verdana;
+}
+.underline{
+    text-decoration: underline;
+}
+#shaddow{
+     text-shadow: 2px 2px #ff0000;
+}
